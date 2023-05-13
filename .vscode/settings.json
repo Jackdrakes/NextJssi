@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+    "workbench.colorCustomizations": {},
+    "terminal.integrated.tabs.defaultColor": null,
+    "window.autoDetectColorScheme": false
+}
